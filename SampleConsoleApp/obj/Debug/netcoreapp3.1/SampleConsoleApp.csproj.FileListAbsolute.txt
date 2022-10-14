@@ -1,0 +1,27 @@
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.exe
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.deps.json
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.runtimeconfig.json
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.runtimeconfig.dev.json
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.dll
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.pdb
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.csprojAssemblyReference.cache
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.AssemblyInfoInputs.cache
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.AssemblyInfo.cs
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.dll
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.pdb
+C:\Bobson\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.genruntimeconfig.cache
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.exe
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.deps.json
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.runtimeconfig.json
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.runtimeconfig.dev.json
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.dll
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\bin\Debug\netcoreapp3.1\SampleConsoleApp.pdb
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.AssemblyInfoInputs.cache
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.AssemblyInfo.cs
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.dll
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.pdb
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.genruntimeconfig.cache
+C:\Users\e5546299\OneDrive - FIS\Projects\SampleConsoleApp\SampleConsoleApp\obj\Debug\netcoreapp3.1\SampleConsoleApp.csproj.AssemblyReference.cache
